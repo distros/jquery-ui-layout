@@ -1,0 +1,11 @@
+{
+  "name": "jquery-ui-layout",
+  "version": "1.4.4",
+  "description": "distribution package for jQuery UI layout",
+  "main": "jquery.layout-latest.js",
+  "registry": "jspm",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:distros/jquery-ui-layout.git"
+  }
+}
